@@ -1,0 +1,14 @@
+
+
+https://pypi.python.org/pypi/sqlalchemy-redshift
+
+http://sobhan06k.blogspot.com/2014/11/reach-redshift-using-python-library.html
+
+#posgres
+COPY sample_table
+FROM 'C:\tmp\sample_data.csv' DELIMITER ',' CSV HEADER;
+
+http://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/
+
+
+https://www.quora.com/Can-I-connect-to-Redshift-using-Python
